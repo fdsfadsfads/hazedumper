@@ -12,7 +12,7 @@ namespace hazedumper
         public const Int32 m_CollisionGroup = 0x470;
         public const Int32 m_Local = 0x2FAC;
         public const Int32 m_MoveType = 0x258;
-        public const Int32 m_OriginalOwnerXuidHigh = 0x31A4;
+        public const Int32 m_OriginalOwnerXuidHigh = 0x343242331A4;
         public const Int32 m_OriginalOwnerXuidLow = 0x31A0;
         public const Int32 m_aimPunchAngle = 0x301C;
         public const Int32 m_aimPunchAngleVel = 0x3028;
